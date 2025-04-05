@@ -1,0 +1,63 @@
+Full stack development :
+
+-> full stack=> frontend + backend + testing + deployment
+
+Introduction to HTML and CSS:
+
+-> HTML - Hyper Text Markup Language
+-> whatever we are creating html and CSS, that is "static page".
+
+-> CSS - Cascading Styling Sheet(Inline, Internal, External)
+1. Inline CSS will be first priority
+2. Internal - <style> </style>
+3. External - style.css
+
+JavaScript(JS) - JS is used for performing dynamic operations.
+It is developed from ES6T->ECMA Script(European Computer Manufacturer Association Script)
+
+-> JavaScript is object-based and not object oriented.
+
+-> the only difference in java and JavaScript is, java has inheritance where JavaScript does not have inheritance topic.
+
+React JS -> Developed by Facebook
+-> combination of html, CSS and JavaScript is known as react JS.
+
+Introduction to Spring:
+Spring Boot
+Spring Cloud and microservices
+JWT & OAuth
+Authentication and Authorisation
+
+Authentication: checking of passwords or emails entered correct or not. (whether credentials correct or not)
+
+Authorisation: It can also called as role based access control(RBAC) (Checking roles) (checking either student or faculty or professional)
+
+-> client will sent a request to the server using web browser.
+
+-> HTTP request will be sent to the server(URL)
+
+-> whenever we fetch URL successfully in the server and that will be delivered/returned to the client
+
+
+
+
+
+INTRODUCTION TO REACT JS FRAMEWORK
+----------------------------------
+1. what is react js?
+=> react.js is an open source javascript library used for building user interfaces (UI) particularly for single page application(spa). it is maintained by meta(formerly facebook) and a large developer community. react js allows developers to create reusable UI components that efficiency update and render based on data changes.
+
+2. history of react.js
+=> developed by facebook in 2011 to improve performance in their applications. open sourced in 2013, gaining popularity for its component based structure. over time react introduced major enhancements such as react hooks
+
+
+
+
+
+
+
+
+
+
+
+

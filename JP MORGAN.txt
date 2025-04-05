@@ -1,0 +1,27 @@
+JP MORGAN
+
+-> DSA
+-> Communication skills
+-> Web Development(front or back or full stack)
+
+
+
+
+
+1. submit a resume in jp morgan page
+2. shortlist based on resume and will send hackerrank exam link to our mails.
+3. based on hackerrank exam(2 codes 1 hr) selected for interview (i.e, questions will display on the screen we have to give answers for 2 mins for each question max.
+4. after interview selected students are allowed to hackathon at Hyderabad to participate
+5. based on hackathon we will be selected for internship
+6. stipend: 75K per month
+   full time: 20LPA
+
+
+
+
+
+
+round 1: dsa
+round 2: fluent English
+round 3: front end / back end / full stack (any 1)
+ 

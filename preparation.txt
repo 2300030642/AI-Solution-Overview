@@ -1,0 +1,157 @@
+** preparation **
+
+1. mern stack
+	a. mongo db
+	b. express.js
+	c. react.js
+	d. node.js
+2.html to wordpress - https://htmltowordpress.io
+3. dancelogo - https://dancelogo.com
+4. html code generator - https://www.html-code-generator.com
+5. lord icon - https://lordicon.com
+6. denigma alpha - https://denigma.app
+7. roadmap - https://roadmap.sh
+8. app development (youtube channels)
+	a. ws cube tech
+	b. free code camp
+	c. code with harry
+9. dsa (youtube channels)
+	a. code with harry
+	b. apna college
+	c. code help
+10. web development (youtube)
+	a. anuj bhaiya
+	b. yahoo baba
+	c. code with harry
+11. AIML (youtube)
+	a. sentdex
+	b. edureka
+	c. data school
+12. clearbit (in google download)
+	get touch with proffesionals and share ideas to get 	good opportunities
+13. aptitude and reasoning (placement round 1)
+	-> https://www.indiabix.com
+14. presentations - canva
+15. guvi (free courses)
+16. resume design - https://www.resume.io
+17. c++ / java / python (placement round 2)
+	c++ - apna college
+	java - code with harry
+	python - code with harry
+*https://practice.greeksforgreeks.org*
+18. communication skills (books)
+	a. talk like ted 
+	b. 21 days of effective communication
+19. prompt engineering (AI)
+20. score of resume 
+	-> resume worded
+21. introduce your self
+	I - introduction
+	S - skills
+	E - education and experience
+	A - achievements
+	T - type of person you are
+22. 	
+	->introduce yourself
+	-> btech final year projects
+	-> what you understand from projects
+23. free courses and certificates
+	-> mindluster.com
+24. full stack development
+	-> mern stack 
+	-> css html js (anuj bhaiya yt channel)
+	-> react.js (code with harry)
+25. introduction
+
+-> I'm Nishitha
+-> pursuing engineering final year in the department of computer science engineering at kl university.
+-> I'm very good at ------(skill) and also I have some innovative ideas to design ----(skill)
+-> project related above skill  --> i disd a project on ------ by using ------ with a good user interface.
+
+26. English speaking
+-> the quick and easy way to speaking  ( amzn.openingapp.co/5gycn )
+
+27. why jobs are not coming?
+-> we are not finding job properly
+-> no proper skills
+-> no proper portfolilo and projects
+
+28.project ideas 
+-> https://www.codementor.io (dev projects) -> find projects
+
+29. why should we hire you?
+-> I am fast learner and I am very interested in working with the team.
+-> according to me the qualities of a fresher are understanding skills, punctual and fast learning ability
+-> si i strongly believe that i have all these qualities in me
+-> and if i get selected in this company i'm going to contribute my 100% to the company
+
+30. build hobbies (genuine)
+31. dpiit internship 
+32. what is your resume structure format?
+33. skills without coding
+-> wordpress
+34. coding competition
+-> coding world cup in coding ninjas
+35. what is your weekness?
+-> problem
+-> improving
+36. typing 	
+	-> monkey type
+	-> typing test english
+37. no cgpa (70% or 80%)
+	-> build skills
+	-> do projects
+	-> add to resume
+	-> build profile
+38. Harvard university ( linktr.ee/TechBoyDeepak --> computer science, dsa, c, python, sql, javascript
+39. communication skills (in udemy)
+	-> coomunication styles for stronger cocial skills
+	-> effective communication skills for business ( updated 2022) 
+40. best programming language 
+	-> dsa with java (2nd year)
+	-> dsa with c++ (3rd or 4th year)
+41. skills to be in Microsoft
+	-> good with computer basics
+	-> good with subjects like networking, databases, os
+	->dsa
+	-> * leetcode
+42. techboydeepak.in
+
+43. when you are not getting answer of given question in interview
+-> i am unable to recall these concepts right now ad i am going to brush upon these concepts after my interview
+
+44. learn ai
+45. ai - IBM applied ai professional certificate
+46. linkedin tech boy Deepak
+47. java cheat sheet
+48. linktr.ee/TechBoyDeepak (cybersecurity roadmap)
+49. dsa
+50. GIT AND GITHUB
+	-> docs.google.com/document/
+51. Microsoft learn portal (prompt engineering)
+52. 
+	-> ai for everyone (coursera)
+	-> ai for beginners (https://microsoft.github.io)
+	-> artificial intelligence a-z 2024 (https://www.udemy.com)
+53. cs50 (https://pill.harvard.edu) -> c, python, sql, html, css, javascript
+54. pop ai (easy trick to prepare for exams)
+55. take u forward / kunal Kushwaha / apna college ---> dsa
+56. internship skills 
+	-> data analytics
+	-> sql
+	-> python 
+	-> quantitative finance
+	-> markets or trading
+	-> algorithm trading
+57. portfolio building series insta
+------>aptitude and reasoning websites
+	-> india bix
+	-> careerride
+	-> examveda
+	-> ambition box
+	-> rs Agarwal books
+------> coding
+	->arrays, strings, stacks, queues, linkedlist, searchin, sorting, string manipulations, bitwise manipulations.
+------> git and GitHub
+------> linkedin
+------> power bi (www.theforage.com/simulations/pwc-ch/power-bi-cqxg)

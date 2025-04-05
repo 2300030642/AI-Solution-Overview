@@ -1,0 +1,22 @@
+OS LAB
+
+1. man - to know the use of any command
+---> man <command_name>
+2. mkdir - to make a directory(called folder in computers)
+---> mkdir <directory_name>
+3. cd - change the directory
+---> cd <directory_name>
+4. touch - to create a file
+---> touch <file_name>
+5. ls - to see the list of files saved
+---> ls
+6. to give a message to a file
+---> cat >> <file_name>
+---> <type_message>
+to save the message in that file
+---> ctrl+C
+7. to see what message is saved in such a file
+---> cat <file_name>
+8. come out from directory
+---> cd <space>
+9.

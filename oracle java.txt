@@ -1,0 +1,29 @@
+** oracle java **
+
+-> Java Data Types  
+-> Use primitives, wrapper classes, operators and type promotion, 
+   handle text with String/StringBuilder and use local variable type inference. 
+-> Control Flow  
+-> Create loops if/else and switch statements. 
+-> Object-Oriented Programming  
+-> Work with objects fields methods constructors, encapsulation, 
+   immutability, inheritance, polymorphism, interfaces and Enums. 
+-> Exception Handling Use try/catch try-with-resources and custom exceptions. 
+-> Arrays and Collections  
+-> Work with generics, arrays, List, Set, Map, and Deque. 
+-> Streams and Lambda  
+-> Implement lambdas and streams. 
+-> Modules, Work with Java modular system. 
+-> Concurrency  
+-> Manage threads and develop thread-safe code. 
+-> Java I/O  
+-> Handle I/O streams files and serialization. 
+-> Secure Coding  
+-> Ensure security and resource access. 
+-> JDBC  
+-> Perform database operations. 
+-> Localization  
+-> Implement using Locale and 
+-> Resource Bundle. 
+-> Annotations  
+-> Create and apply annotations.

@@ -1,0 +1,17 @@
+TESTING ON LPCXPRESSO18S37
+==========================
+
+1. Remove the Macronix part from the board and replace with a Gigabyte GB25Qxxx.
+
+2. Close jumpers JP3 and JP5 to ensure ISP booting from USART0
+
+3. Move JP11 to the P2.0 position
+
+4. Remove the DFUlink jumper
+
+5. Connect an RS232 to USB interface to P4 FTDI connector (ground, tx and rx only needed)
+
+6. Press and release SW3 (reset) and SW2 (ISP) to boot into USART0 bootloader
+
+7. Choose bootloader in Flash Magic and select FTDI COM port
+
